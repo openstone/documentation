@@ -7,7 +7,7 @@ hero:
   text: "SaaS ERP 用户文档"
   tagline: "我们将系统设计与可靠的技术相结合，打造易用的创新产品！融合企业营运场景，赋能企业管理成长！"
   image:
-    src: /static/src/img/img.png
+    src: https://www.metaoss.com/web/image/2633-5afd6691/%E7%B2%98%E8%B4%B4%E7%9A%84%E5%9B%BE%E5%83%8F%204%20%281%29.png
     alt: SaaS ERP
   actions:
     - theme: brand

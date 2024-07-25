@@ -44,7 +44,7 @@ export default defineConfig({
                 {text: '公司设置', link: '/16.0/company-settings'},
                 {text: '会计设置', link: '/16.0/accounting-settings'},
                 {text: '产品设置', link: '/16.0/product-settings'},
-                {text: '库存设置', link: '/16.0/implementation-overview'},
+                {text: '库存设置', link: '/16.0/warehouse-settings'},
                 {text: '采购设置', link: '/16.0/implementation-overview'},
                 {text: '销售设置', link: '/16.0/implementation-overview'},
                 {text: '生产设置', link: '/16.0/implementation-overview'},
