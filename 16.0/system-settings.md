@@ -21,6 +21,6 @@
 5. [库存设置](warehouse-settings.md)
 6. [采购设置](purchase-settings.md)
 7. [销售设置](sales-settings.md)
-8. [生产设置](manufacturing-settings.md)
+8. [生产设置](production-settings)
 9. [POS设置](pos-settings.md)
 
