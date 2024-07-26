@@ -30,6 +30,17 @@
 产品类别整体设置完成之后，请勿轻易修改设置，除非必要或者设置有误。
 :::
 
+## 产品属性
+设置产品不同颜色、内存等，新建设置新属性，用来生成不同的产品变体。
+
+路径：库存/配置/属性
+
+![product_setting_11.png](static/src/img/product_setting_11.png)
+
+选择已有的，查看或者更新属性，或者新建属性
+
+![product_setting_12.png](static/src/img/product_setting_12.png)
+
 ## 产品设置
 
 ![product_setting_04.png](static/src/img/product_setting_04.png)
@@ -78,7 +89,12 @@
 
 这些科目通常留空，取产品类别上面的科目设置；或者设置不同于类别的科目
 
+### 属性变体
 
+![product_setting_13.png](static/src/img/product_setting_13.png)
 
+维护属性，然后保存；点击顶部变体图标，查看产品变体
 
+![product_setting_14.png](static/src/img/product_setting_14.png)
 
+![product_setting_15.png](static/src/img/product_setting_15.png)
