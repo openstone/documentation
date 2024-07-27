@@ -35,7 +35,7 @@ export default defineConfig({
       }
     },
     nav: [
-      { text: '首页', link: '/' },
+      { text: 'metaoss.com', link: 'https://www.metaoss.com' },
       { text: '文档',
         items: [
           { text: '17.0', link: '/17.0' },
