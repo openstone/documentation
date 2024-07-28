@@ -38,8 +38,8 @@ export default defineConfig({
       { text: 'metaoss.com', link: 'https://www.metaoss.com' },
       { text: '文档',
         items: [
-          { text: '17.0', link: '/17.0' },
-          { text: '16.0', link: '/16.0' }
+          { text: '17.0', link: '/17.0/saas-erp-overview' },
+          { text: '16.0', link: '/16.0/saas-erp-overview' }
         ]
       }
     ],
@@ -71,15 +71,53 @@ export default defineConfig({
                 {text: 'POS设置', link: '/16.0/pos-settings'},
               ]
             },
-            {text: '用户管理', link: '/16.0/oversea-trade-wholesale'},
-            {text: '技术设置', link: '/16.0/oversea-trade-wholesale'},
+            {text: '用户管理', link: '/16.0/user-management'},
+            {text: '技术设置', link: '/16.0/technical-settings'},
+            // {
+            //   text: '个人设置', link: '/16.0/oversea-trade-wholesale',
+            //   items: [
+            //     {text: '修改密码', link: '/16.0/oversea-trade-wholesale'},
+            //   ]
+            //
+            // },
+          ]
+        },
+      ],
+      '/17.0/': [
+        {
+          text: '',
+          items: [
+            {text: '整体介绍', link: '/17.0/saas-erp-overview'},
+            {text: '系统实施', link: '/17.0/system-implementation'},
+            {text: '实施全景', link: '/17.0/implementation-overview'},
+            {text: '海外贸易、批发行业环境设置', link: '/17.0/oversea-trade-wholesale'},
+            {text: '中小型生产制造行业环境设置', link: '/17.0/small-medium-manufacturing'},
+            {text: '中小型商业零售行业环境设置', link: '/17.0/small-medium-retailer'},
+            {text: '连锁机构、广告行业环境设置', link: '/17.0/agency-advertising'},
             {
-              text: '个人设置', link: '/16.0/oversea-trade-wholesale',
+              text: '系统设置', collapsed: true,
               items: [
-                {text: '修改密码', link: '/16.0/oversea-trade-wholesale'},
+                {text: '系统设置', link: '/17.0/system-settings'},
+                {text: '模块安装', link: '/17.0/module-installation'},
+                {text: '公司设置', link: '/17.0/company-settings'},
+                {text: '会计设置', link: '/17.0/accounting-settings'},
+                {text: '产品设置', link: '/17.0/product-settings'},
+                {text: '库存设置', link: '/17.0/warehouse-settings'},
+                {text: '采购设置', link: '/17.0/purchase-settings'},
+                {text: '销售设置', link: '/17.0/sales-settings'},
+                {text: '生产设置', link: '/17.0/production-settings'},
+                {text: 'POS设置', link: '/17.0/pos-settings'},
               ]
-
             },
+            {text: '用户管理', link: '/17.0/user-management'},
+            {text: '技术设置', link: '/17.0/technical-settings'},
+            // {
+            //   text: '个人设置', link: '/16.0/oversea-trade-wholesale',
+            //   items: [
+            //     {text: '修改密码', link: '/16.0/oversea-trade-wholesale'},
+            //   ]
+            //
+            // },
           ]
         },
       ]
