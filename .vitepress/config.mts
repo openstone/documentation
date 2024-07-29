@@ -69,11 +69,12 @@ export default defineConfig({
                 {text: '销售设置', link: '/16.0/sales-settings'},
                 {text: '生产设置', link: '/16.0/production-settings'},
                 {text: 'POS设置', link: '/16.0/pos-settings'},
+                {text: '技术设置', link: '/16.0/technical-settings'},
               ]
             },
             {text: '用户管理', link: '/16.0/user-management'},
-            {text: '技术设置', link: '/16.0/technical-settings'},
             {text: '个人设置', link: '/16.0/personal-settings'},
+            {text: '期初数据', link: '/16.0/balance-settings'},
             // {
             //   text: '个人设置', link: '/16.0/oversea-trade-wholesale',
             //   items: [
