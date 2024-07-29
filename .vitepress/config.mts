@@ -73,6 +73,7 @@ export default defineConfig({
             },
             {text: '用户管理', link: '/16.0/user-management'},
             {text: '技术设置', link: '/16.0/technical-settings'},
+            {text: '个人设置', link: '/16.0/personal-settings'},
             // {
             //   text: '个人设置', link: '/16.0/oversea-trade-wholesale',
             //   items: [
@@ -111,6 +112,7 @@ export default defineConfig({
             },
             {text: '用户管理', link: '/17.0/user-management'},
             {text: '技术设置', link: '/17.0/technical-settings'},
+            {text: '个人设置', link: '/17.0/personal-settings'},
             // {
             //   text: '个人设置', link: '/16.0/oversea-trade-wholesale',
             //   items: [
@@ -136,7 +138,7 @@ export default defineConfig({
     },
     footer: {
       // message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
-      copyright: '版权 ©2023-2024 <a href="https://www.openstone.cn">上海开石信息技术有限公司</a> <small><a href="https://beian.miit.gov.cn">沪ICP备15046805号-1</a></small>'
+      copyright: '版权 ©2023-2024 <a href="https://www.openstone.cn">上海开石信息技术有限公司</a> <small><a href="https://beian.miit.gov.cn">沪ICP备15046805号-5</a></small>'
     }
   }
 })
